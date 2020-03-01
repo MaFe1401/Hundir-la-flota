@@ -1,0 +1,286 @@
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2017-2018Q1\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2017-2018Q1\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2017-2018Q1\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2017-2018Q1\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2017-2018Q1\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2017-2018Q1\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2017-2018Q1\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2017-2018Q1\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 0\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2017-2018Q2\EjercicioGuia\AplicacionInicial\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2017-2018Q2\EjercicioGuia\AplicacionInicial\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\LaAplicacionAlInicio\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Logueo.resources
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Logueo.resources
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\biblioteca\Desktop\prototipo1_def\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\biblioteca\Desktop\prototipo1_def\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\biblioteca\Desktop\prototipo1_def\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\biblioteca\Desktop\prototipo1_def\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\biblioteca\Desktop\prototipo1_def\prototipo1\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\biblioteca\Desktop\prototipo1_def\prototipo1\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\biblioteca\Desktop\prototipo1_def\prototipo1\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\34674\Desktop\Uni Things\Q3\SO\Versio[2.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Versio[2.1.0]\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versio[2.1.1]\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Versio[3.0.1]\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Downloads\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\cliente_inicial-20191201T122411Z-001\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\alber\Desktop\Version[5.1.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Version[5.1.0] (1)\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Version[5.2.0]\Version[5.1.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\marcf\Desktop\Version[6.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alber\Desktop\Version[8.0.0]\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[6.0.0]-20200115T232318Z-001\Version[6.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[9.0.0]\Version[9.0.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[9.1.0]\Version[9.1.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Version[9.2.0]\Version[9.2.0]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versió Definitiva-20200119T230536Z-001\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partida.resources
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marcf\Desktop\Versió Definitivament definitiva\Versió Definitiva\Versió Definitiva\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
